@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        main: ['"M PLUS 1p"', 'メイリオ', '游ゴシック', 'Microsoft YaHei', '微软雅黑', 'Helvetica', 'sans-serif'],
+        main: ['メイリオ', '游ゴシック', 'Microsoft YaHei', '微软雅黑', 'Helvetica', 'sans-serif'],
       },
     },
   },
