@@ -30,7 +30,8 @@ git clone https://github.com/kensoz/vue-template.git
 ESLint
 
 ```sh
-yarn add -D eslint eslint-plugin-vue @vue/eslint-config-typescript @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint-plugin-html
+yarn add -D eslint eslint-plugin-vue @vue/eslint-config-typescript
+yarn add -D @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint-plugin-html
 ```
 
 Prettier
