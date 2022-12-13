@@ -13,9 +13,10 @@
     "ecmaVersion": 12
   },
 
-  "plugins": ["vue", "@typescript-eslint"],
+  "plugins": ["vue", "@typescript-eslint", "html"],
 
   "rules": {
-    "vue/singleline-html-element-content-newline": ["warn", { "ignores": ["div", "span"] }]
+    "vue/singleline-html-element-content-newline": "off",
+    "@typescript-eslint/no-inferrable-types": "off"
   }
 }
