@@ -2,7 +2,7 @@
 
 ![Node](https://img.shields.io/badge/Node.js-v18.7.0-fb7185.svg?logo=&style=flat-square) ![License](https://img.shields.io/badge/License-MIT-0284C7.svg?logo=&style=flat-square)
 
-Personal Vue.js template with TypeScript & TailwindCSS
+Personal Vue.js template with TypeScript & TailwindCSS.
 
 
 
