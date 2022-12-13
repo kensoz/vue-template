@@ -1,8 +1,10 @@
 {
   "name": "vue-template",
-  "private": true,
   "version": "0.0.0",
   "type": "module",
+  "author": "renhou",
+  "license": "MIT",
+  "private": true,
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc && vite build",
