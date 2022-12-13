@@ -1,10 +1,12 @@
-# Vue.js Template
+# 📖 Vue.js Template
 
 ![Node](https://img.shields.io/badge/Node.js-v18.7.0-fb7185.svg?logo=&style=flat-square) ![License](https://img.shields.io/badge/License-MIT-0284C7.svg?logo=&style=flat-square)
 
-面倒なセットアップをを避けて、個人用テンプレートの Repository です
+Personal Vue.js template with TypeScript & TailwindCSS
 
-### スタック
+
+
+## Stack
 
 | Name        | Ver |
 | ----------- | --- |
@@ -13,13 +15,17 @@
 | TailwindCSS | 3   |
 | TypeScript  | 4.9 |
 
-### 利用
+
+
+## Usage
 
 ```bash
 git clone https://github.com/kensoz/vue-template.git
 ```
 
-### セットアップ
+
+
+## Setup
 
 ESLint
 
@@ -46,3 +52,26 @@ Editorconfig
 ```sh
 yarn add -D editorconfig-checker
 ```
+
+
+
+## Options
+
+Vue Router
+
+```sh
+yarn add vue-router@4
+```
+
+Pinia
+
+```shell
+yarn add pinia
+```
+
+npm-run-all
+
+```sh
+yarn add -D npm-run-all
+```
+
